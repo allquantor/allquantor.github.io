@@ -1,13 +1,13 @@
 # Setup
-title:        Allquantor's Blog
-tagline:      A responsive theme for your project on GitHub Pages
+title:        ∀
+tagline:      The blog of Ivan λ Morozov
 baseurl:      ""
-paginate:     1
+paginate:     2
 
 # About/contact
 author:
   name:       Ivan Morozov
-  url:        http://allquantor.github.io
+  url:        http://allquantor.github.io/about
 
 # Gems
 gems:

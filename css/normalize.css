@@ -422,3 +422,9 @@ td,
 th {
   padding: 0;
 }
+
+.image-caption {
+  text-align: center;
+  font-size: 0.8rem;
+  color: light-grey;
+}
