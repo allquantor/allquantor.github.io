@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "Building a crypto currency trading client with Akka Streams and WebSockets"
-date:   2017-07-21 
+date:   2017-07-21
 categories: tech
 ---
 # Crypto asset platform client for Gemini with Akka
